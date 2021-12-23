@@ -1,1 +1,1 @@
-This is a simple text file
+Exercises of powerpoint 6
